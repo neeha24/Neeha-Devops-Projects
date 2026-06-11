@@ -38,9 +38,6 @@ Running your application locally is ideal for early testing, but it won’t suff
 
 Once deployed, users can access your application using the server’s IP address. However, an IP address isn’t always user friendly. That’s why you purchase a domain name and map it to your server.
 
-<Frame>
-  ![The image contrasts development and production environments, showing local development on a laptop and production on servers, with different URLs and programming languages.](https://kodekloud.com/kk-media/image/upload/v1752873436/notes-assets/images/DevOps-Pre-Requisite-Course-Devops-Tools/frame_170.jpg)
-</Frame>
 
 ## The Basic Workflow: Building and Deploying
 
@@ -84,10 +81,6 @@ The automated pipeline typically works as follows:
 * The build server compiles the code.
 * Automated tests run on the build.
 * If tests pass, the executable is deployed to production.
-
-<Frame>
-  ![The image illustrates a CI/CD pipeline process using Jenkins, GitHub Actions, and GitLab CI/CD, showing stages of development, build, test, and deployment.](https://kodekloud.com/kk-media/image/upload/v1752873437/notes-assets/images/DevOps-Pre-Requisite-Course-Devops-Tools/frame_530.jpg)
-</Frame>
 
 ## Packaging with Containers
 
@@ -181,11 +174,6 @@ An example Ansible playbook for deploying a Kubernetes cluster might look like t
 ## Monitoring Infrastructure with Prometheus and Grafana
 
 Deploying and configuring your infrastructure is only half the battle; ongoing monitoring is essential to ensure everything runs smoothly. Prometheus gathers metrics such as CPU usage, memory consumption, and process statuses from your servers. Grafana then visualizes this data through dashboards, helping you quickly spot trends and potential issues.
-
-<Frame>
-  ![The image illustrates a CI/CD pipeline using Infrastructure as Code (IaC) with tools like Ansible, Terraform, Prometheus, and Grafana, showing development, build, test, and production stages.](https://kodekloud.com/kk-media/image/upload/v1752873438/notes-assets/images/DevOps-Pre-Requisite-Course-Devops-Tools/frame_940.jpg)
-</Frame>
-<img width="1233" height="507" alt="Screenshot 2026-06-11 at 8 31 59 AM" src="https://github.com/user-attachments/assets/32b77560-84f0-45e4-a5af-fcf052b49879" />
 
 
 
