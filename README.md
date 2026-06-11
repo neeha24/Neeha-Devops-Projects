@@ -180,6 +180,17 @@ Deploying and configuring your infrastructure is only half the battle; ongoing m
 
 <img width="1081" height="466" alt="Screenshot 2026-06-11 at 8 40 54 AM" src="https://github.com/user-attachments/assets/d3c8ab48-47a8-4e67-be5f-02c112c0f5fb" />
 
+## Continous Integration
+
+<img width="1178" height="596" alt="Screenshot 2026-06-11 at 8 53 09 AM" src="https://github.com/user-attachments/assets/8a94b575-5970-44e4-abc5-ee06d2a971ce" />
+
+<img width="1206" height="453" alt="Screenshot 2026-06-11 at 8 54 26 AM" src="https://github.com/user-attachments/assets/d8e1e7c7-ceec-412f-9875-def24cf9f06d" />
+
+## Continueos Deployment/Delivery
+
+<img width="1173" height="609" alt="Screenshot 2026-06-11 at 8 57 53 AM" src="https://github.com/user-attachments/assets/f98ec8d5-f3df-4a38-8dac-c80f393e84ee" />
+
+
 
 
 
