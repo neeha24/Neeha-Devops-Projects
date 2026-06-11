@@ -175,5 +175,11 @@ An example Ansible playbook for deploying a Kubernetes cluster might look like t
 
 Deploying and configuring your infrastructure is only half the battle; ongoing monitoring is essential to ensure everything runs smoothly. Prometheus gathers metrics such as CPU usage, memory consumption, and process statuses from your servers. Grafana then visualizes this data through dashboards, helping you quickly spot trends and potential issues.
 
+## Jenkins Core Concepts
+<img width="1063" height="598" alt="Screenshot 2026-06-11 at 8 38 56 AM" src="https://github.com/user-attachments/assets/0f00ceef-6701-4218-a3d4-54980626970c" />
+
+<img width="1081" height="466" alt="Screenshot 2026-06-11 at 8 40 54 AM" src="https://github.com/user-attachments/assets/d3c8ab48-47a8-4e67-be5f-02c112c0f5fb" />
+
+
 
 
