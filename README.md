@@ -3,6 +3,10 @@ Jenkins is an open-source automation server used primarily for continuous integr
 
 <img width="721" height="775" alt="Screenshot 2026-06-10 at 9 40 35 AM" src="https://github.com/user-attachments/assets/cd62fd6c-bdc5-4cc8-b38e-3c4be6b0b123" />
 
+<img width="1233" height="507" alt="Screenshot 2026-06-11 at 8 31 59 AM" src="https://github.com/user-attachments/assets/3294cb22-2b60-49cc-aa10-aaa96aaeb991" />
+
+
+
 A developer pushes their changes to a Git repository. Jenkins is watching that repository, so the moment new code arrives it kicks off a pipeline of automated steps. First it builds the code (compiles it into something runnable), then it runs the test suite. If everything passes, it deploys the new version to a server. If something fails, instead of shipping broken code it alerts the developer, who fixes the problem and pushes again, starting the cycle over.
 The whole point is that the purple box in the middle does all of this automatically. Without Jenkins, a person would have to manually compile, test, and deploy every change—tedious and error-prone. Jenkins turns that into a hands-off assembly line, which is why it's called an "automation server."
 
@@ -181,23 +185,7 @@ Deploying and configuring your infrastructure is only half the battle; ongoing m
 <Frame>
   ![The image illustrates a CI/CD pipeline using Infrastructure as Code (IaC) with tools like Ansible, Terraform, Prometheus, and Grafana, showing development, build, test, and production stages.](https://kodekloud.com/kk-media/image/upload/v1752873438/notes-assets/images/DevOps-Pre-Requisite-Course-Devops-Tools/frame_940.jpg)
 </Frame>
-
-## Conclusion
-
-This guide has taken you on a journey from your initial idea to a fully automated, scalable, and monitored production environment. By integrating development tools, CI/CD pipelines, containerization, orchestration, infrastructure provisioning, configuration management, and monitoring solutions, DevOps practices enable seamless transitions from concept to high-quality software delivery.
-
-For further reading, explore these resources:
-
-* [Kubernetes Documentation](https://kubernetes.io/docs/)
-* [Docker Hub](https://hub.docker.com/)
-* [Terraform Registry](https://registry.terraform.io/)
-
-DevOps is the convergence of people, processes, and tools working in harmony to ensure that your software is deployed reliably and efficiently.
-
-<CardGroup>
-  <Card title="Watch Video" icon="video" cta="Learn more" href="https://learn.kodekloud.com/user/courses/devops-pre-requisite-course/module/10cc998e-4162-40ec-be18-d26a77d7a474/lesson/dbafa3a2-d069-4c84-8977-d405f017bd04" />
-</CardGroup>
-
+<img width="1233" height="507" alt="Screenshot 2026-06-11 at 8 31 59 AM" src="https://github.com/user-attachments/assets/32b77560-84f0-45e4-a5af-fcf052b49879" />
 
 
 
