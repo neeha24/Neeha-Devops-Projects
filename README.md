@@ -2,7 +2,7 @@ Hi, I'm Neeharika 👋
 
 DevOps & Platform Engineer — Linux, CI/CD automation, and secure, reliable infrastructure.
 
-I build and maintain the engineering infrastructure that lets development teams ship faster and safer: automated pipelines, hardened Linux systems, reproducible environments, and security baked into the workflow rather than bolted on.
+I build and maintain the engineering infrastructure that will ship faster and safer: automated pipelines, hardened Linux systems, reproducible environments, and security baked into the workflow rather than bolted on.
 
 
 🔧 What I work with
